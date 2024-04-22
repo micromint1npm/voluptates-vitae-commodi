@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@micromint1npm/voluptates-vitae-commodi",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,20 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/micromint1npm/voluptates-vitae-commodi.git"
   },
   "dependencies": {
+    "@micromint1npm/corrupti-quis-exercitationem": "^1.0.0",
+    "@micromint1npm/dolorum-tempore-consectetur": "^1.0.0",
+    "@micromint1npm/excepturi-dignissimos-voluptatum": "^1.0.0",
+    "@micromint1npm/exercitationem-nemo-quo": "^1.0.0",
+    "@micromint1npm/ipsam-sunt-cupiditate": "^1.0.0",
+    "@micromint1npm/laborum-architecto-magni": "^1.0.0",
+    "@micromint1npm/laudantium-sint-ab": "^1.0.0",
+    "@micromint1npm/perspiciatis-totam-magnam": "^1.0.0",
+    "@micromint1npm/quibusdam-quisquam-temporibus": "^1.0.0",
+    "@micromint1npm/quos-perferendis-vitae": "^1.0.0",
+    "@micromint1npm/repellendus-nam-pariatur": "^1.0.0",
+    "@rtyuigh6npm/reprehenderit-sit-nemo-itaque": "^1.0.0"
   }
 }
